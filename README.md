@@ -1,1 +1,2 @@
-https://projecteuler.net# Project-Euler-solutions
+Solutions to maths problems from 
+https://projecteuler.net#
